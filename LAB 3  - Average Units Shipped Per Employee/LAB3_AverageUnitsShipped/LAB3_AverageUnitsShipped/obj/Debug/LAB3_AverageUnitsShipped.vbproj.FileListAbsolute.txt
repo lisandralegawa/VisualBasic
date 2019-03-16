@@ -1,0 +1,12 @@
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\bin\Debug\LAB3_AverageUnitsShipped.exe.config
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\bin\Debug\LAB3_AverageUnitsShipped.exe
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\bin\Debug\LAB3_AverageUnitsShipped.pdb
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\bin\Debug\LAB3_AverageUnitsShipped.xml
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.vbprojAssemblyReference.cache
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.Resources.resources
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.vbproj.GenerateResource.cache
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.vbproj.CoreCompileInputs.cache
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.exe
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.xml
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.pdb
+C:\Users\lisan\Desktop\VB\LAB 3  - Average Units Shipped Per Employee\LAB3_AverageUnitsShipped\LAB3_AverageUnitsShipped\obj\Debug\LAB3_AverageUnitsShipped.Form1.resources
